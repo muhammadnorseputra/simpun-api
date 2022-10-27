@@ -38,7 +38,7 @@
       },
       {
         "id": 3,
-        "title": "Leaning",
+        "title": "Learning",
         "description": "Suka belajar hal baru sebagai tantangan"
       }
     ],
@@ -62,7 +62,7 @@
       {
         "id": 3,
         "tingkat": "SMP",
-        "jurusan": "TIK",
+        "jurusan": null,
         "location": "SMP NEGERI 1 BATUMANDI",
         "year_start": "2011",
         "year_end": "2014"
@@ -70,7 +70,7 @@
       {
         "id": 4,
         "tingkat": "SD",
-        "jurusan": "TIK",
+        "jurusan": null,
         "location": "SD NEGERI BANUA HANYAR",
         "year_start": "2005",
         "year_end": "2011"
