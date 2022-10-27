@@ -24,6 +24,57 @@
           "source": "/src/screenshoot/web/01.jpg"
         }]
       }
+    ],
+    "hobbys": [
+      {
+        "id": 1,
+        "title": "Membaca Buku",
+        "description": "Mengisi waktu luang dengan membaca buku"
+      },
+      {
+        "id": 2,
+        "title": "Photograpy",
+        "description": "Mengabadikan setiap moment dalam bentuk digital"
+      },
+      {
+        "id": 3,
+        "title": "Leaning",
+        "description": "Suka belajar hal baru sebagai tantangan"
+      }
+    ],
+    "studys": [
+      {
+        "id": 1,
+        "tingkat": "S1",
+        "jurusan": "Administration Public",
+        "location": "STIA Amuntai",
+        "year_start": "2018",
+        "year_end": "2021"
+      },
+      {
+        "id": 2,
+        "tingkat": "SMK",
+        "jurusan": "MULTIMEDIA",
+        "location": "SMK NEGERI 1 BATUMANDI",
+        "year_start": "2014",
+        "year_end": "2017"
+      },
+      {
+        "id": 3,
+        "tingkat": "SMP",
+        "jurusan": "TIK",
+        "location": "SMP NEGERI 1 BATUMANDI",
+        "year_start": "2011",
+        "year_end": "2014"
+      },
+      {
+        "id": 4,
+        "tingkat": "SD",
+        "jurusan": "TIK",
+        "location": "SD NEGERI BANUA HANYAR",
+        "year_start": "2005",
+        "year_end": "2011"
+      }
     ]
   }
   
