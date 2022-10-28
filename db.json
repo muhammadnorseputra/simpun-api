@@ -9,7 +9,7 @@
         "screenshoot": [{
           "id": 1,
           "title": "Halaman Depan",
-          "source": "/src/screenshoot/ikm/01.jpg"
+          "source": "/src/screenshoot/ikm/01.png"
         }]
       },
       {
@@ -21,7 +21,7 @@
         "screenshoot": [{
           "id": 1,
           "title": "Halaman Depan",
-          "source": "/src/screenshoot/web/01.jpg"
+          "source": "/src/screenshoot/web/01.png"
         }]
       }
     ],
