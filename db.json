@@ -6,6 +6,7 @@
         "category": "WEB",
         "date_created": "2021-05-03",
         "url": "https://bkpsdm-skm.balangankab.go.id",
+        "technology": "HTML, CSS, Javascript, PHP Codeigniter 3",
         "screenshoot": [{
           "id": 1,
           "title": "Halaman Depan",
@@ -18,6 +19,7 @@
         "category": "WEB",
         "date_created": "2019-01-04",
         "url": "https://bkpsdm.balangankab.go.id",
+        "technology": "HTML, CSS, GULP, SASS, Javascript, PHP Codeigniter 3",
         "screenshoot": [{
           "id": 1,
           "title": "Halaman Depan",
@@ -29,17 +31,20 @@
       {
         "id": 1,
         "title": "Membaca Buku",
-        "description": "Mengisi waktu luang dengan membaca buku"
+        "description": "Mengisi waktu luang dengan membaca buku",
+        "image": "https://cdn-icons-png.flaticon.com/512/2436/2436702.png"
       },
       {
         "id": 2,
         "title": "Photograpy",
-        "description": "Mengabadikan setiap moment dalam bentuk digital"
+        "description": "Mengabadikan setiap moment dalam bentuk digital",
+        "image": "https://cdn-icons-png.flaticon.com/512/1042/1042339.png"
       },
       {
         "id": 3,
         "title": "Learning",
-        "description": "Suka belajar hal baru sebagai tantangan"
+        "description": "Suka belajar hal baru sebagai tantangan",
+        "image": "https://cdn-icons-png.flaticon.com/512/2436/2436855.png"
       }
     ],
     "studys": [
