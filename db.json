@@ -27,7 +27,7 @@
         }]
       }
     ],
-    "carrier": [
+    "carriers": [
       {
         "id": 1,
         "title": "Fullstack Web Developer",
